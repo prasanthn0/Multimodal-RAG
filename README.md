@@ -20,4 +20,7 @@
     Upload a PDF and wait for ingestion.
     Enter a query to compare results from text and image modes.
 
+Flowchart:
+![alt text](image.png)
+
 
