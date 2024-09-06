@@ -21,6 +21,6 @@
     Enter a query to compare results from text and image modes.
 
 Flowchart:
-![alt text](image.png)
+![alt text](assets/image.png)
 
 
